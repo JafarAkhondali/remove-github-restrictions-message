@@ -6,11 +6,17 @@ We were a little excited to hear that Microsoft let's us create private reposito
 As a single person, all i can do now is to ignore your message, just like you ignored the freedom of open source. 
 # Install
 
+FireFox:    
+[MDN](https://addons.mozilla.org/en-US/firefox/addon/github-restrictions-hider/)    
 
+___
 
-[FireFox MDN](https://addons.mozilla.org/en-US/firefox/addon/github-restrictions-hider/)    
+Chrome, Chromium and Vivaldi:    
 [Chrome store](https://chrome.google.com/webstore/detail/pkconlgalehldobejjolennilngnmcnb/publish-accepted?hl=en-US)    
-[FireFox XPI file](https://github.com/JafarAkhondali/remove-github-restrictions-message/releases/download/0.0.1/hides_restricted_message_of_github-0.0.1-fx.xpi)    
+___
+
+Opera users can also install [this extension](https://addons.opera.com/en/extensions/details/install-chrome-extensions/) and then install `remove-github-restrictions-message` via Chrome store.    
+___
 
 Icon from http://pluspng.com/png-110941.html
 
