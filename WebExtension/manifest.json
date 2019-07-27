@@ -6,8 +6,8 @@
         "contentScripts/removewarning.css"
       ],
       "matches": [
-        "https://github.com/*",
-        "http://github.com/*"
+        "https://*.github.com/*",
+        "http://*.github.com/*"
       ],
       "run_at": "document_start"
     }

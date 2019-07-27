@@ -1,3 +1,3 @@
-header + div.flash.flash-full.js-notice.flash-warn{
+header + div.flash.flash-full.js-notice.flash-warn, .Header + div.flash.flash-full.js-notice.flash-warn{
     display: none;
 }
