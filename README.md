@@ -8,9 +8,9 @@ As a single person, all i can do now is to ignore your message, just like you ig
 
 
 
-FireFox MDN(SOON)    
+[FireFox MDN](https://addons.mozilla.org/en-US/firefox/addon/github-restrictions-hider/)    
+[Chrome store](https://chrome.google.com/webstore/detail/pkconlgalehldobejjolennilngnmcnb/publish-accepted?hl=en-US)    
 [FireFox XPI file](https://github.com/JafarAkhondali/remove-github-restrictions-message/releases/download/0.0.1/hides_restricted_message_of_github-0.0.1-fx.xpi)    
-[Chrome store](https://chrome.google.com/webstore/detail/pkconlgalehldobejjolennilngnmcnb/publish-accepted?hl=en-US)
 
 Icon from http://pluspng.com/png-110941.html
 
