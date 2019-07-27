@@ -20,5 +20,5 @@
   "manifest_version": 2,
   "name": "Hides restricted message of github",
   "short_name": "Github Restricted Remover",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
