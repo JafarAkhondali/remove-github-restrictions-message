@@ -8,13 +8,10 @@ As a single person, all i can do now is to ignore your message, just like you ig
 
 FireFox:    
 [MDN](https://addons.mozilla.org/en-US/firefox/addon/github-restrictions-hider/)    
-
 ___
-
 Chrome, Chromium and Vivaldi:    
 [Chrome store](https://chrome.google.com/webstore/detail/pkconlgalehldobejjolennilngnmcnb/publish-accepted?hl=en-US)    
 ___
-
 Opera users can also install [this extension](https://addons.opera.com/en/extensions/details/install-chrome-extensions/) and then install `remove-github-restrictions-message` via Chrome store.    
 ___
 
